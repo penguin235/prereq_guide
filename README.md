@@ -21,8 +21,5 @@ Possible Modifications
 Model 2: React.js
 -create a front end that has buttons of courses titles which (when clicked on include the course description)
 
-Model 3:
--"beautified" model 1 
--combining Model 1 and Model 2 details
 
 
